@@ -76,7 +76,7 @@ Disassembly of <code object main at 0x7f364566b3c0, file "main.py", line 5>:
 
 If `chk != 4919`, it prints `'Wrong'`
 
-`main.pyc` doesn't modifies `chk` so we need to analyze `checker.so`
+`main.pyc` doesn't modify `chk` so we need to analyze `checker.so`
 
 #### PyInit_checker
 
